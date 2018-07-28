@@ -7,10 +7,10 @@ You add the urls of the webpage(s) that want to monitor in a list (slice) and th
 
 **Requirements**
 
-Go 1.8 or greater
-A Gmail address
+- Go 1.8 or greater
+- A Gmail address
 
-**Before running it**
+**Email credentials setup**
 
 Add in the **email.go** file your Gmail address and password and the address that you want to be emailed.
 
